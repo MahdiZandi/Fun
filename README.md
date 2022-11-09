@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=FF0000&center=true&vCenter=true&height=40&lines=Mahdi+Zandi)](https://github.com/MahdiZandi)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=100&pause=10&color=FF0000&center=true&vCenter=true&height=40&lines=I+am+Mahdi+Zandi+Skilled in design and development of web, several languages programing and data analysis![image](https://user-images.githubusercontent.com/116761872/200961254-cb2e44f1-51ba-451d-8583-484fd44c72b6.png)
+)](https://github.com/MahdiZandi)
