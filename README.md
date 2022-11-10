@@ -1,6 +1,6 @@
-[![Qualification+Summary(MySkill](https://img.shields.io/badge/QualificationSummary(MySkill)-GPL--3.0-green)](https://github.com/MahdiZandi/MahdiZandi/blob/main/My%20skill) 
+[![Qualification+Summary(MySkill](https://img.shields.io/badge/QualificationSummary(MySkill)-See%20Here-green)](https://github.com/MahdiZandi/MahdiZandi/blob/main/My%20skill) 
 [![MyWorkAndTechnicalExperience](https://img.shields.io/badge/MyWorkAndTechnicalExperience-See%20Here-orange)](https://github.com/MahdiZandi/MahdiZandi/blob/main/My%20Experience)
-[![MyEducation](https://img.shields.io/badge/MyEducation-See%20Here-success)](https://github.com/MahdiZandi/MahdiZandi/blob/main/My%20Experience)
+[![MyEducation](https://img.shields.io/badge/MyEducation-See%20Here-powderblue)](https://github.com/MahdiZandi/MahdiZandi/blob/main/My%20Experience)
 
 
 
