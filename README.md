@@ -30,6 +30,5 @@ src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" widt
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MahdiZandi&theme=radical&hide_border=true&border_radius=10&background=013E4E&ring=FF8888&fire=FF8888&stroke=48FF50&currStreakNum=FFF000&sideLabels=FF8888&currStreakLabel=FFF000&dates=FF8650&sideNums=FFF000)](https://git.io/streak-stats)
 
