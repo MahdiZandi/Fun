@@ -16,6 +16,7 @@ Skilled in design and development of web, several languages programing and data 
 <p align="left">
 <a href="https://www.linkedin.com/in/mahdizandi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bradley-jester" height="40" width="50" /></a>
 </p>
+<h3 align="Center">(Languages and Tools)</h3>
 
 <h3 align="Center"(Languages and Tools)</h3>
 <p align="Center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
