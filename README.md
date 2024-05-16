@@ -37,7 +37,8 @@ src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" widt
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MahdiZandi&theme=radical&hide_border=true&border_radius=10&background=013E4E&ring=FF8888&fire=FF8888&stroke=48FF50&currStreakNum=FFF000&sideLabels=FF8888&currStreakLabel=FFF000&dates=FF8650&sideNums=FFF000)](https://git.io/streak-stats)
+<br>
+ ![](https://komarev.com/ghpvc/?username=shahradelahi)
+![](https://komarev.com/ghpvc/?username=MahdiZandi)
 
-<p ![](https://komarev.com/ghpvc/?username=shahradelahi)
- </p>
 
